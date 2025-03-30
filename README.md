@@ -1,7 +1,6 @@
 # Natural Sampling
 
-**Name:** Charan PG
-**Roll Number:** 212223060033
+
 
 ## Aim
 To perform natural sampling of a continuous signal and reconstruct the signal using interpolation and filtering techniques.
